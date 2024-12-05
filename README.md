@@ -37,7 +37,7 @@ Template
 
 - [E-BOOK](https://github.com/Rafailusion/ebook/blob/c5132d98baa16fea1fb862a5602d03d5fdbc2187/Apresenta%C3%A7%C3%A3o.pdf)
 - [Podcast](https://github.com/Rafailusion/prompts-for-podcast-generate-by-ia/blob/main/prompts%20for%20podcast%20generate%20by%20ia/prompts-for-podcast-generate-by-ia/output/Podcast%20Rafael%20editado.mp4)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo (Avatar Virtual)](https://studio.d-id.com/share?id=f31d65f0d042201fb76bd8b7e0ac105f&utm_source=copy)
 
 ## Links Interessantes
 
