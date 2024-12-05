@@ -38,15 +38,3 @@ Olá pessoal, Rafaiel César aqui! Inspirado na hype _"Natty or Not"_ do fisicul
 
 ## 💭 Reflexão (Opcional)
  Com o uso das Ias generativas, o resultado é surpreeendente e realizado de maneira rápida e eficiente. 
-
-### Exemplos e Insigths
-
-- [E-BOOK](<https://github.com/Rafailusion/ebook/blob/c5132d98baa16fea1fb862a5602d03d5fdbc2187/Apresenta%C3%A7%C3%A3o.pdf>)
-- [Podcast](<https://github.com/Rafailusion/prompts-for-podcast-generate-by-ia/blob/main/prompts%20for%20podcast%20generate%20by%20ia/prompts-for-podcast-generate-by-ia/output/Podcast%20Rafael%20editado.mp4>)
-- [Vídeo (Avatar Virtual)](<exemplos/VIDEO.md>)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
