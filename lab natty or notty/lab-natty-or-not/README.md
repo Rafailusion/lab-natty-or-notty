@@ -15,7 +15,7 @@ Olá pessoal, Rafaiel César aqui! Inspirado na hype _"Natty or Not"_ do fisicul
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [rafaelcesarprestes](https://www.linkedin.com/in/rafaelcesarprestes).
+1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](<https://www.linkedin.com/school/dio-makethechange>) e [Linkedin](<https://www.linkedin.com/in/rafaelcesarprestes>).
 
 ### Template
 
@@ -41,9 +41,9 @@ Olá pessoal, Rafaiel César aqui! Inspirado na hype _"Natty or Not"_ do fisicul
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/https://github.com/Rafailusion/ebook/blob/c5132d98baa16fea1fb862a5602d03d5fdbc2187/Apresenta%C3%A7%C3%A3o.pdf)
-- [Podcast](https://github.com/Rafailusion/prompts-for-podcast-generate-by-ia/blob/main/prompts%20for%20podcast%20generate%20by%20ia/prompts-for-podcast-generate-by-ia/output/Podcast%20Rafael%20editado.mp4)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](<https://github.com/Rafailusion/ebook/blob/c5132d98baa16fea1fb862a5602d03d5fdbc2187/Apresenta%C3%A7%C3%A3o.pdf>)
+- [Podcast](<https://github.com/Rafailusion/prompts-for-podcast-generate-by-ia/blob/main/prompts%20for%20podcast%20generate%20by%20ia/prompts-for-podcast-generate-by-ia/output/Podcast%20Rafael%20editado.mp4>)
+- [Vídeo (Avatar Virtual)](<exemplos/VIDEO.md>)
 
 ## Links Interessantes
 
